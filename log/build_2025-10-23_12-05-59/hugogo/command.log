@@ -1,0 +1,6 @@
+Invoking command in '/home/bork/ros2_ws/src/hugogo/build/hugogo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/bork/ros2_ws/src/hugogo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bork/ros2_ws/src/hugogo/install/hugogo
+Invoked command in '/home/bork/ros2_ws/src/hugogo/build/hugogo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/bork/ros2_ws/src/hugogo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bork/ros2_ws/src/hugogo/install/hugogo
+Invoking command in '/home/bork/ros2_ws/src/hugogo/build/hugogo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/bork/ros2_ws/src/hugogo/build/hugogo -- -j8 -l8
+Invoked command in '/home/bork/ros2_ws/src/hugogo/build/hugogo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/bork/ros2_ws/src/hugogo/build/hugogo -- -j8 -l8
+Invoking command in '/home/bork/ros2_ws/src/hugogo/build/hugogo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/bork/ros2_ws/src/hugogo/build/hugogo
+Invoked command in '/home/bork/ros2_ws/src/hugogo/build/hugogo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/bork/ros2_ws/src/hugogo/build/hugogo

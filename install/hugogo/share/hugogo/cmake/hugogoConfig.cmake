@@ -1,0 +1,1 @@
+/home/bork/ros2_ws/src/hugogo/build/hugogo/ament_cmake_core/hugogoConfig.cmake

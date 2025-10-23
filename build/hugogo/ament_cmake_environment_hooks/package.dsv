@@ -1,0 +1,4 @@
+source;share/hugogo/local_setup.bash
+source;share/hugogo/local_setup.dsv
+source;share/hugogo/local_setup.sh
+source;share/hugogo/local_setup.zsh

@@ -1,0 +1,9 @@
+/home/bork/ros2_ws/src/hugogo/build/hugogo/CMakeFiles/uninstall.dir
+/home/bork/ros2_ws/src/hugogo/build/hugogo/CMakeFiles/hugogo_uninstall.dir
+/home/bork/ros2_ws/src/hugogo/build/hugogo/CMakeFiles/test.dir
+/home/bork/ros2_ws/src/hugogo/build/hugogo/CMakeFiles/edit_cache.dir
+/home/bork/ros2_ws/src/hugogo/build/hugogo/CMakeFiles/rebuild_cache.dir
+/home/bork/ros2_ws/src/hugogo/build/hugogo/CMakeFiles/list_install_components.dir
+/home/bork/ros2_ws/src/hugogo/build/hugogo/CMakeFiles/install.dir
+/home/bork/ros2_ws/src/hugogo/build/hugogo/CMakeFiles/install/local.dir
+/home/bork/ros2_ws/src/hugogo/build/hugogo/CMakeFiles/install/strip.dir
